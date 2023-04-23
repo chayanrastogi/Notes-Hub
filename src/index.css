@@ -78,6 +78,7 @@ form button{
   min-height: 70px;
   margin: 10px auto;
   width: 30%;
+  word-wrap : break-word;
 }
 
 .note .title{
@@ -87,10 +88,6 @@ form button{
 
 .note .content{
   color: #555;
-}
-
-.content{
-  overflow-x: auto;
 }
 
 button{
