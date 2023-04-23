@@ -90,7 +90,7 @@ form button{
 }
 
 .content{
-  word-wrap : break-word;
+  overflow-x: auto;
 }
 
 button{
