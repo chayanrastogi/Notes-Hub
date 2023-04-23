@@ -89,6 +89,10 @@ form button{
   color: #555;
 }
 
+.content{
+  word-wrap : break-word;
+}
+
 button{
   background-color: rgb(255, 162, 0);
   color: #fff;
